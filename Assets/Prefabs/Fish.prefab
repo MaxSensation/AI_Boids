@@ -380,13 +380,13 @@ MonoBehaviour:
   speed: 4
   targetMinDistance: 20
   maxTurnAroundSpeed: 360
-  obstacleTurnSpeed: 270
-  targetTurnSpeed: 30
-  alignmentTurnSpeed: 90
+  obstacleTurnSpeed: 170
+  targetTurnSpeed: 50
+  alignmentTurnSpeed: 120
   cohesionTurnSpeed: 90
   separationTurnSpeed: 360
-  minimumDistance: 1
-  holdDistance: 2
+  minimumDistance: 2
+  holdDistance: 5
 --- !u!54 &-1407262231307079965
 Rigidbody:
   m_ObjectHideFlags: 0
